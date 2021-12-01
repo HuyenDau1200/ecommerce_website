@@ -1,0 +1,123 @@
+*{
+    font-size:14px;
+}
+#header{
+    background:#000000;
+}
+#header .header-info{
+    color:#eeeeee;
+}
+#header .header-menu{
+    color:#eeeeee;
+}
+#header .header-menu form{
+    position:absolute;
+    right:0px;
+}
+#header .header-menu ul li a{
+    color:#eeeeee;
+}
+
+#header .header-menu{
+    position:relative;
+}
+#header .header-menu ul.sub-menu{
+    position:absolute;
+    top:43px;
+    width: 170px;
+    padding: 0px 15px 15px;
+}
+#header .header-menu ul.sub-menu li a{
+    color:#212121;
+}
+#header .header-menu ul li:hover>a{
+    color:#e2524a;
+}
+#home-slide ol.carousel-indicators li{
+    background-color:#282828;
+}
+#home-slide ol.carousel-indicators li.active{
+    background-color:#e2524a;
+}
+#home-slide .carousel-inner .carousel-item .carousel-caption{
+    width:510px;
+    height:auto;
+    position:absolute;
+    top:150px;
+}
+#home-slide .carousel-inner .carousel-item .carousel-caption p{
+    font-size:18px;
+}
+#wp-content #slider{
+    margin-bottom:80px;
+}
+#wp-content #support{
+    font-size:16px;
+    margin-bottom:80px;
+}
+#wp-content #support .col-md-4 div{
+    background:#f4f4f4;
+}
+#wp-content #support .col-md-4 div span{
+    font-size:30px;
+}
+#wp-content #list-new-product,#list-feature-product,#lastest-blog{
+    margin-top:80px;
+    font-size:14px;
+}
+.title h1{
+    font-size:30px;
+}
+.title p{
+    color:#837d7d;
+}
+.card .card-body a.card-title{
+    font-weight:600;
+    color:#514545;
+}
+.card .card-body .card-title:hover{
+    color:#e2524a;
+}
+.card .card-body p.price{
+    color:#514545;
+}
+/* end new product */
+#category{
+    margin-bottom:80px;
+}
+#category .carousel .carousel-caption{
+    width:120px;
+    left:410px;
+    bottom:30px;
+    padding:0px;
+}
+#category .carousel .carousel-caption h1{
+    font-size:48px;
+    font-weight:400;
+}
+
+/* end category */
+#list-feature-product{
+    margin-bottom:80px;
+}
+#list-feature-product #slide-product ol li{
+    background-color:#282828;
+}
+#list-feature-product #slide-product ol{
+    bottom:-24px;
+}
+#list-feature-product #slide-product ol li.active{
+    background-color:#e2524a;
+}
+/* end list-feature-product */
+#lastest-blog .card-desk .card .card-body{
+
+}
+#footer{
+    padding:80px 0px;
+}
+#copyright{
+    font-weight:700;
+}
+
+
